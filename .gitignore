@@ -1,0 +1,49 @@
+# ==========================================
+# DATA LAYER
+# ==========================================
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ignore any temporary data files
+*.csv
+*.xlsx
+
+# ==========================================
+# MODELS & SERIALIZED ARTIFACTS
+# ==========================================
+models/*.pkl
+models/*.keras
+models/*.h5
+
+# ==========================================
+# VIRTUAL ENVIRONMENT & PYTHON
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Python cache files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Tool-specific lock files
+uv.lock
+.uv/
+
+# ==========================================
+# SYSTEM FILES & EDITORS
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
