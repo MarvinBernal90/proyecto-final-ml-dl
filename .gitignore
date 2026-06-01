@@ -1,14 +1,14 @@
 # ==========================================
 # DATA LAYER
 # ==========================================
-data/raw/*
+*.xlsx
 data/processed/*
+
+# Exceptions
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/raw/hotel_bookings.csv
 
-# Ignore any temporary data files
-*.csv
-*.xlsx
 
 # ==========================================
 # MODELS & SERIALIZED ARTIFACTS
