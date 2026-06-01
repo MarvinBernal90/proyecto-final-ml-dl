@@ -14,7 +14,7 @@ El desarrollo de este proyecto se realizó bajo una modalidad de **trabajo en eq
 
 **Declaración de Colaboración:** Ambos autores compartimos la responsabilidad y autoría de todos los módulos del software al 100%. Todo el código fue unificado, probado y validado en conjunto para asegurar el correcto funcionamiento del sistema.
 
-📦 **Repositorio del Proyecto:** [GitHub - ML/DL Final Project](https://github.com/cloud-devops-lab-journey/ml-dl-final-project)
+📦 **Repositorio del Proyecto:** [GitHub - ML/DL Final Project](https://github.com/MarvinBernal90/proyecto-final-ml-dl)
 
 ---
 
